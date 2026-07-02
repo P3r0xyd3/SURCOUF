@@ -1,0 +1,49 @@
+{
+  "$Bundles": {
+    "Game2": "2.2.0.2116",
+    "System.Runtime": "1.0.0.0",
+    "VRage": "2.2.0.2116"
+  },
+  "$Type": "VRage:Keen.VRage.Library.Filesystem.StorageManagers.ContainerInfo`1<Game2:Keen.Game2.Client.GameSystems.Blueprints.BlueprintMetadata>",
+  "$Value": {
+    "Meta": {
+      "UserInfo": {
+        "DisplayName": {
+          "RawText": "Coin de base pente longue, blindage léger, inversé"
+        },
+        "Summary": "Résumé : bloc de référence pour chat GPT. Couleur : Blanche",
+        "Tags": [
+          "UGCBlueprintTypeTag"
+        ]
+      },
+      "BaseMetadata": {
+        "Id": null,
+        "Title": "Coin de base pente longue, blindage léger, inversé",
+        "Description": "Résumé : bloc de référence pour chat GPT. Couleur : Blanche",
+        "Visiblity": "Unlisted",
+        "Tags": [
+          "UGCBlueprintTypeTag"
+        ],
+        "IsSubscribed": false,
+        "VotesUp": 0,
+        "VotesDown": 0,
+        "Rating": 0,
+        "IsOwner": false,
+        "NumSubscriptions": 0,
+        "Size": 0,
+        "OwnerName": null,
+        "CreatedAt": "2026-06-28T15:05:34.2837186+02:00",
+        "UpdatedAt": "2026-06-28T15:05:34.2837186+02:00",
+        "WorkshopURL": null,
+        "PreviewFilePath": "",
+        "Dependencies": null
+      },
+      "GameVersion": 2002000,
+      "GameBuildNumber": 2116,
+      "LastEdited": "2026-06-28T15:05:34.2837186+02:00",
+      "BlockCount": 1,
+      "PCU": 1
+    },
+    "AdditionalData": {}
+  }
+}
